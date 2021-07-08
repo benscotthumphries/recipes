@@ -25,7 +25,7 @@
     </div>
     <router-view v-if="user" />
     <div class='footer'>
-      <p>I spent 30 hours | <a href="https://github.com/benscotthumphries/Hang">GitHub</a></p>
+      <p>I spent 30 hours | <a href="https://github.com/benscotthumphries/recipes">GitHub</a></p>
     </div>
   </div>
 </template>
